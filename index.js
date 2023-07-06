@@ -21,7 +21,7 @@ var result;
 if(randomNumber1==randomNumber2){
     result="Draw!";
 }
-else if(randomNumber1<randomNumber2){
+else if(randomNumber1>randomNumber2){
     result="⭐Player 1 wins!";
 }
 else{
